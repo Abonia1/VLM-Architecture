@@ -1,8 +1,10 @@
 # 👩🏻‍🏫Vision-Language Models (VLMs) Architectures Guide
 
-![Architecture Overview](https://github.com/Abonia1/VLM-Architecture/blob/main/architeture.png)
+
 
 Vision-Language Models (VLMs) are advanced AI systems designed to process and integrate visual and textual information simultaneously. They enable machines to perform tasks such as image captioning, visual question answering, and text-to-image retrieval by understanding the relationship between images and text. This document provides an overview of various VLM architectures and their notable implementations.
+
+![Architecture Overview](https://github.com/Abonia1/VLM-Architecture/blob/main/architeture.png)
 
 ## 1. Contrastive Learning
 
