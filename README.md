@@ -1,4 +1,4 @@
-# 👩🏻‍🏫 Vision-Language Models (VLMs) Architectures Guide 👩🏻‍🏫
+# 👩🏻‍🏫Vision-Language Models (VLMs) Architectures Guide
 
 ![Architecture Overview](https://github.com/Abonia1/VLM-Architecture/blob/main/architeture.png)
 
